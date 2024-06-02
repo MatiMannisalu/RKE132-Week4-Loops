@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.AssemblyInfo.cs
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\bin\Debug\net8.0\WhileLoops.exe
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\bin\Debug\net8.0\WhileLoops.deps.json
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\bin\Debug\net8.0\WhileLoops.runtimeconfig.json
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\bin\Debug\net8.0\WhileLoops.dll
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\bin\Debug\net8.0\WhileLoops.pdb
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.dll
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\obj\Debug\net8.0\refint\WhileLoops.dll
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.pdb
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\obj\Debug\net8.0\WhileLoops.genruntimeconfig.cache
+C:\Users\manni\source\repos\Week4Loops\WhileLoops\WhileLoops\obj\Debug\net8.0\ref\WhileLoops.dll
